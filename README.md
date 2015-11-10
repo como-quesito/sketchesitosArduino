@@ -1,2 +1,2 @@
 # sketchesitosArduino
-Mis skuetches de arduino
+Mis sketches de arduino
